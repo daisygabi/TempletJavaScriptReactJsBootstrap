@@ -13,7 +13,7 @@ Yarn
 Run with tests:
 - yarn test
 
-2. Then open localhost:3000 in a browser and the application should be running.
+Then open http://localhost:3000 in a browser and the application should be running.
 
 You can download or fork this project in order to save time in your development. 
 Happy Coding.
