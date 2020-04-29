@@ -1,13 +1,19 @@
 # Template project starter for JavaScript, React.js, Html and CSS
 
-This is a template project, you can use as fast starter for your project.
+1. To build the project locally, run:
 
-Run the project:
-> yarn install
-> yarn start
-In your default browser http://localhost:8000 should be launched.
+NPM
+- npm install
+- npm start
 
-Run the project with running tests:
-> yarn test
+Yarn
+- yarn install
+- yarn start
 
-Happy coding.
+Run with tests:
+- yarn test
+
+2. Then open localhost:3000 in a browser and the application should be running.
+
+You can download or fork this project in order to save time in your development. 
+Happy Coding.
