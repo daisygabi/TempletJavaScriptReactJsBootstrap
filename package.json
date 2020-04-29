@@ -23,7 +23,6 @@
     "build": "env-cmd src/config/.env.production react-scripts build",
     "test": "react-scripts test --watchAll",
     "eject": "react-scripts eject",
-    "watch-tests": "react-scripts test --watchAll"
   },
   "browserslist": [
     ">0.2%",
