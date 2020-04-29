@@ -1,0 +1,34 @@
+{
+  "name": "templateproject",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.19.2",
+    "axios-mock-adapter": "^1.18.1",
+    "bootstrap": "^4.4.1",
+    "env-cmd": "^8.0.2",
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "^1.15.2",
+    "jquery": "^3.5.0",
+    "node-sass": "^4.14.0",
+    "popper.js": "^1.16.1",
+    "react": "^16.13.1",
+    "react-bootstrap": "^1.0.1",
+    "react-dom": "^16.13.1",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.4.1"
+  },
+  "scripts": {
+    "start": "env-cmd src/config/.env.local react-scripts start",
+    "build": "env-cmd src/config/.env.production react-scripts build",
+    "test": "react-scripts test --watchAll",
+    "eject": "react-scripts eject",
+    "watch-tests": "react-scripts test --watchAll"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
