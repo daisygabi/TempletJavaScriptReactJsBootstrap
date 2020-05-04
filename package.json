@@ -22,7 +22,7 @@
     "start": "env-cmd src/config/.env.local react-scripts start",
     "build": "env-cmd src/config/.env.production react-scripts build",
     "test": "react-scripts test --watchAll",
-    "eject": "react-scripts eject",
+    "eject": "react-scripts eject"
   },
   "browserslist": [
     ">0.2%",
